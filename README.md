@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - :climbing: Rock Climbing
 - :nerd_face: Pub trivia
 - :dancer: Dancing
+- :video_game: Videogames. Favourites are: Civilization 6, Skyrim, Divinity Original Sin
 - :bento: Cooking, especially East Asian cuisines.
 
 **Languages and Tools:**
