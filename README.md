@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 <img align="center" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br />
+
 <div align="center">
   <img src="https://imgs.xkcd.com/comics/geoip.png" alt="xkcd" width="500" />
   <p>xkcd #713</p>
