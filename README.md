@@ -4,7 +4,7 @@
 </div>
 
 ### Hi there, I'm Ramsha. 👋 
-Welcome there to my github! I've recently curated public repositories of my code from my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
+Welcome to my github! I've recently curated public repositories of my code from my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
 
 
 ### :woman_technologist: About Me :
