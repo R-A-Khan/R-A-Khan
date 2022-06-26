@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.explainxkcd.com/wiki/images/6/62/4_5_degrees.png" main="xkcd" width="500" />
+  <img src="https://www.explainxkcd.com/wiki/images/6/62/4_5_degrees.png" main="xkcd" width="350" />
    <p>xkcd #1379</p>
 </div>
 
