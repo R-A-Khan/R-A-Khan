@@ -10,8 +10,7 @@ Welcome to my github! I've recently curated public repositories of my code from 
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently a postdoc at the department of Meteorology at Stockholm University. I'm funded by the Swedish e-Sciences Research Centre (SeRC).
-- 🌱 I'm currently developing a statistical emulator for the atmospheric model [SCAM6](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001578). I use the emulator to generate enough data to conduct global sensitivity analysis (GSA), and identify influential parameters on radiative forcing (modern - preindustrial), such as aerosol emissions or thermodynamic variables. _This project is currently unpublished and subsequently not public, but I have created a sample workflow to illustrate the process_.
-- I work mostly with python, Linux shell scripting, and matlab.
+- 🌱 I'm currently developing a statistical emulator for the atmospheric model [SCAM6](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001578). I use the emulator to generate enough data to conduct global sensitivity analysis (GSA), and identify influential parameters on radiative forcing (modern - preindustrial), such as aerosol emissions or thermodynamic variables. 
 - :ocean: My PhD research focused on optimising prediction of tsunami waves, by integrating measurements of the sea surface into a mathematical model.
 - I'm motivated by the idea of optimally merging mathematical models with the boatload of data we have these days, to innovate models for processes having huge social impact.
 - 💬 Ask me about tsunami waves, clouds, and modelling the ocean floor! Also, how not to forget how memory allocation works in Fortran and C... (no reason, ahem 👀)
