@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 - :video_game: Videogames. Favourites are: Civilization 6, Skyrim, Divinity Original Sin
 - :bento: Cooking, especially East Asian cuisines.
 
+<br />
+
 **Languages and Tools:**
 
 
@@ -56,7 +58,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-A-Khan&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-A-Khan&exclude_repo=SWE-1D-Bath-SOA,SWE-1D-Bath&layout=compact"/>
+
+<br />
 
 **LinkedIn:**
 <a href="https://www.linkedin.com/in/ramshakhan/">
