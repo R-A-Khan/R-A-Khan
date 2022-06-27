@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-  <img src="https://imgs.xkcd.com/comics/geoip.png" alt="xkcd" width="500" />
-  <p>xkcd #713</p>
+  <img src="https://imgs.xkcd.com/comics/x_2x.png" alt="xkcd" width="500" />
+  <p>xkcd #2309</p>
 </div>
