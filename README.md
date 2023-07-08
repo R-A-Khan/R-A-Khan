@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://www.explainxkcd.com/wiki/images/6/62/4_5_degrees.png" main="xkcd" width="350" />
-   <p>xkcd #1379</p>
-</div>
-
 ### Hi there, I'm Ramsha. 👋 
 Welcome to my github! I've recently curated public repositories of my code from my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
 
