@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <br />
 
 **Interests and Pastimes:**
-- :books: :black_nib:	Reading and creative writing. I especially love fantasy!
-- :world_map: Travelling the world, especially to places rich in history (so everywhere, basically)
+- :books: :black_nib:	Reading and creative writing. 
+- :world_map: Travelling the world, especially to places rich in ancient history (so everywhere, basically)
 - :climbing: Rock Climbing
 - :nerd_face: Pub trivia
 - :dancer: Dancing
