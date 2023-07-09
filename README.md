@@ -1,5 +1,5 @@
 ### Hi there, I'm Ramsha. 👋 
-Welcome to my github! Here toy can find public repositories of my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
+Welcome to my github! Here you can find public repositories of my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
 
 
 ### :woman_technologist: About Me :
