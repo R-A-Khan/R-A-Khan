@@ -1,9 +1,10 @@
 ### Hi there, I'm Ramsha. 👋 
-Welcome to my github! I've recently curated public repositories of my code from my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
+Welcome to my github! Here toy can find public repositories of my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
 
 
 ### :woman_technologist: About Me :
 
+- I currently work for a tech startup where we implement Reinforcement Learning algorithms for a range of applications, such as simulation of pedestrian dynamics for self-driving cars, to solving combinatorial optimization problems in smart factories.
 - 🔭 I did a postdoc at the department of Meteorology at Stockholm University. I was funded by the Swedish e-Sciences Research Centre (SeRC).
 - 🌱 I developed  a statistical emulator for the atmospheric model [SCAM6](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001578). I used the emulator to generate enough data to conduct global sensitivity analysis (GSA), and identify influential parameters on radiative forcing (modern - preindustrial), such as aerosol emissions or thermodynamic variables. 
 - :ocean: My PhD research focused on optimising prediction of tsunami waves, by optimally integrating observed data of the sea surface into a mathematical model. I also used mathematical analysis to derive sensitivity of the prediction to model parameters.
