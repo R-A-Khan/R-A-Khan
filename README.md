@@ -1,16 +1,18 @@
 ### Hi there, I'm Ramsha. 👋 
-Welcome to my github! Here you can find public repositories of my PhD and postdoctoral projects. Don't hesitate to contact me if you'd like to chat about them!
+Welcome to my github! Here you can find public repositories of my PhD and postdoctoral projects, and some other little projects. Don't hesitate to contact me if you'd like to chat about them!
 
 
 ### :woman_technologist: About Me :
 
-- I currently work for a tech startup where we implement Reinforcement Learning algorithms for a range of applications, from simulation of pedestrian dynamics for self-driving cars, to solving combinatorial optimization problems in smart factories.
+- Currently I develope end-to-end data science solutions for a design App.
+- I build and maintain pipelines across analytics, experimentation, and machine learning, using BigQuery, Python, and statistical modeling to support data-driven decision making. My work included retention forecasting, conversion modeling, and personalised recommendations that informed core growth initiatives.
+- I have industry experience as an ML engineering implementing Reinforcement Learning pipelines for a range of applications, from simulation of pedestrian dynamics for self-driving cars, to solving combinatorial optimization problems in smart factories.
 - 🔭 I did a postdoc at the department of Meteorology at Stockholm University. I was funded by the Swedish e-Sciences Research Centre (SeRC).
 - 🌱 I developed  a statistical emulator for the atmospheric model [SCAM6](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001578). I used the emulator to generate enough data to conduct global sensitivity analysis (GSA), and identify influential parameters on radiative forcing (modern - preindustrial), such as aerosol emissions or thermodynamic variables. 
-- :ocean: My PhD research focused on optimising prediction of tsunami waves, by optimally integrating observed data of the sea surface into a mathematical model. I also used mathematical analysis to derive sensitivity of the prediction to model parameters.
+- :ocean: My PhD research focused on numerical optimisation of tsunami wave forecasts, by optimally integrating observed data of the sea surface into a mathematical model. I also used mathematical analysis to derive sensitivity of the prediction to model parameters.
 - I'm motivated by the idea of optimally merging mathematical models with the boatload of data we have these days, to innovate models for processes having huge social impact.
 <!--
-- 💬 Ask me about tsunami waves, clouds, and modelling the ocean floor! Also, how not to forget how memory allocation works in Fortran and C... (no reason, ahem 👀)
+- 💬 Ask me about app growth strategies, start ups, tsunami waves, clouds, and modelling the ocean floor! Also, how not to forget how memory allocation works in Fortran and C... (no reason, ahem 👀)
 -->
 
 
@@ -35,12 +37,11 @@ Here are some ideas to get you started:
 
 **Interests and Pastimes:**
 - :books: :black_nib:	Reading and creative writing. 
-- :world_map: Travelling the world, especially to places rich in ancient history (so everywhere, basically)
+- :world_map: Travelling, especially to places rich in history (so everywhere, basically)
 - :climbing: Rock Climbing
 - :nerd_face: Pub trivia
-- :dancer: Dancing
-- :video_game: Videogames. Favourites are: Civilization 6, Skyrim, Divinity Original Sin
-- :bento: Cooking, especially East Asian cuisines.
+- :video_game: Videogames. Favourites are: Civilization 6, Skyrim, Baldur's Gate 3, Divinity Original Sin (Anything Larian)
+
 
 <br />
 
