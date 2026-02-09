@@ -4,7 +4,7 @@ Welcome to my github! Here you can find public repositories of my PhD and postdo
 
 ### :woman_technologist: About Me :
 
-- Currently I develope end-to-end data science solutions for a design App.
+- Currently I develop end-to-end data science solutions for a design App.
 - I build and maintain pipelines across analytics, experimentation, and machine learning, using BigQuery, Python, and statistical modeling to support data-driven decision making. My work included retention forecasting, conversion modeling, and personalised recommendations that informed core growth initiatives.
 - I have industry experience as an ML engineering implementing Reinforcement Learning pipelines for a range of applications, from simulation of pedestrian dynamics for self-driving cars, to solving combinatorial optimization problems in smart factories.
 - 🔭 I did a postdoc at the department of Meteorology at Stockholm University. I was funded by the Swedish e-Sciences Research Centre (SeRC).
