@@ -4,13 +4,13 @@ Welcome to my github! Here you can find public repositories of my PhD and postdo
 
 ### :woman_technologist: About Me :
 
-- Currently I develop end-to-end data science solutions for a design App.
-- I build and maintain pipelines across analytics, experimentation, and machine learning, using BigQuery, Python, and statistical modeling to support data-driven decision making. My work included retention forecasting, conversion modeling, and personalised recommendations that informed core growth initiatives.
-- I have industry experience as an ML engineering implementing Reinforcement Learning pipelines for a range of applications, from simulation of pedestrian dynamics for self-driving cars, to solving combinatorial optimization problems in smart factories.
+- 📱 Currently I develop end-to-end data science solutions for a design App.
+- 📊 I build and maintain pipelines across analytics, experimentation, and machine learning, using BigQuery, Python, and statistical modeling to support data-driven decision making. My work included retention forecasting, conversion modeling, and personalised recommendations that informed core growth initiatives.
+- 🏎️ I have industry experience as an ML engineering implementing Reinforcement Learning pipelines for a range of applications, from simulation of pedestrian dynamics for self-driving cars, to solving combinatorial optimization problems in smart factories.
 - 🔭 I did a postdoc at the department of Meteorology at Stockholm University. I was funded by the Swedish e-Sciences Research Centre (SeRC).
 - 🌱 I developed  a statistical emulator for the atmospheric model [SCAM6](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001578). I used the emulator to generate enough data to conduct global sensitivity analysis (GSA), and identify influential parameters on radiative forcing (modern - preindustrial), such as aerosol emissions or thermodynamic variables. 
 - :ocean: My PhD research focused on numerical optimisation of tsunami wave forecasts, by optimally integrating observed data of the sea surface into a mathematical model. I also used mathematical analysis to derive sensitivity of the prediction to model parameters.
-- I'm motivated by the idea of optimally merging mathematical models with the boatload of data we have these days, to innovate models for processes having huge social impact.
+- 🧮 I'm motivated by the idea of optimally merging mathematical models with the boatload of data we have these days, to innovate models for processes having huge social impact.
 <!--
 - 💬 Ask me about app growth strategies, start ups, tsunami waves, clouds, and modelling the ocean floor! Also, how not to forget how memory allocation works in Fortran and C... (no reason, ahem 👀)
 -->
@@ -48,16 +48,17 @@ Here are some ideas to get you started:
 **Languages and Tools:**
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="20" src="https://www.pngitem.com/pimgs/m/32-323166_copyright-symbol-r-free-download-png-r-studio.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/fortran/fortran.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-A-Khan&exclude_repo=SWE-1D-Bath-SOA,SWE-1D-Bath&layout=compact"/>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="60" src="https://www.pngitem.com/pimgs/m/32-323166_copyright-symbol-r-free-download-png-r-studio.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/fortran/fortran.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg"></code>
+<code><img height="80" src="https://www.serviops.ca/wp-content/uploads/et_temp/Google-Cloud-Platform-GCP-Logo-95213_1080x675.png"></code>
 
 <br />
 
